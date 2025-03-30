@@ -1,2 +1,2 @@
 # url 
-https://github.com/athulvarkey/portfolio
+https://portfolio-614w.vercel.app/
