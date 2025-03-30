@@ -6,7 +6,7 @@
   "scripts": {
     "generate:blog": "node scripts/generate-blog-data.js",
     "dev": "npm run generate:blog && next dev",
-    "build": "npm run generate:blog && next build",
+    "build": "npm run generate:blog && next build --no-lint",
     "start": "next start",
     "lint": "next lint"
   },

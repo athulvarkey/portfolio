@@ -1,7 +1,8 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { Users, Star, Trophy, Calendar } from "lucide-react";
+// import { Users, Star } from "lucide-react";
+import { Trophy, Calendar } from "lucide-react";
 import { Badge } from "@/components/ui/badge";
 
 const achievements = [
